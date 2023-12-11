@@ -60,6 +60,14 @@ dependencies:
   geolocator: ^10.1.0
   location: ^5.0.3
   flutter_barcode_scanner: ^2.0.0
+  provider: ^5.0.0
+  tosspayments_widget_sdk_flutter: ^1.0.2
+  shared_preferences: ^2.0.8
+  webview_flutter: 3.0.4
+  url_launcher: ^6.0.6
+
+
+  
 
 dev_dependencies:
   flutter_test:
