@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:test12/screens/web_screen/web_page_screen.dart';
 import 'package:test12/screens/web_screen/school_bus_webview.dart';
 
-class HomeScreen extends StatelessWidget {
+class WebHomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
